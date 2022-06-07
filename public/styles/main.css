@@ -2,11 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;1,200;1,300;1,400;1,500;1,600&display=swap');
 
 /* Custom variables */
-:root{
+:root {
     --color-background-selection: #95d246;
     --color-text-selection: white;
 
 }
+
 /* Reset style */
 * {
     margin: 0;
@@ -15,8 +16,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-::selection{
+::selection {
     background-color: var(--color-background-selection);
     color: var(--color-text-selection);
 }
-
