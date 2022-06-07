@@ -4,8 +4,10 @@
 /* Custom variables */
 :root {
     --color-background-selection: #95d246;
+    --color-background-main: #95d246;
     --color-text-selection: white;
-
+    --color-text-main: white;
+    --color-text-gray: #686767;
 }
 
 /* Reset style */
